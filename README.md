@@ -456,7 +456,7 @@ Use SerpApi APIs without writing code:
 
 - Track the coupons and promotions on your products and competing products, with their savings and expiration dates.
 - Find all the products a coupon applies to, with their prices, ratings, and reviews.
-- Build deal and coupon pages with the steps to claim each promotion and its terms.
+- Check that your own promotions are live on Amazon, with the right savings, dates, and qualifying products.
 - Alert shoppers when a promotion covers a product they follow, or before it expires.
 - Compare promotions across Amazon marketplaces with `amazon_domain`.
 - Give AI agents and RAG pipelines the details and terms of Amazon promotions.
